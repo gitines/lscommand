@@ -16,7 +16,7 @@ Bienvenue dans ce projet open source dans lequel vous trouverez le code de la co
 
 Clonez le référentiel sur votre machine :
 
-# bash
+### bash
 git clone [](https://github.com/gitines/lscommand.git)
 cd lscommand
 
