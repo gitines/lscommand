@@ -23,12 +23,12 @@ Description claire et précise de ce que attendez qu'il se passe.
 **Captures d'écran**
 Ajoutez des captures d'écran pour expliquer votre problème (facultatif).
 
-** Navigateur - Complétez les informations suivantes : **
+** Navigateur  (Complétez les informations suivantes) : **
  - OS: [e.g. iOS]
  - Navigateur [e.g. chrome, safari]
  - Version [e.g. 22]
 
-** Smartphone - Complétez les informations suivantes : **
+** Smartphone (Complétez les informations suivantes) : **
  - Appareil : [e.g. iPhone6]
  - OS : [e.g. iOS8.1]
  - Navigateur [e.g. stock browser, safari]
