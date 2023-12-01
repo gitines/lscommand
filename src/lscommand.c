@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <dirent.h>
+#include <stdlib.h>
 
 int main() {
     // Ouvrir le répertoire courant
